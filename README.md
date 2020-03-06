@@ -1,2 +1,2 @@
 # site
-Primeiro repositório no GitHUB
+Primeiro diretório no GitHUB
